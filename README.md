@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prxtenses&label=Profile%20views&color=0e75b6&style=flat" alt="prxtenses" /> </p>
 
-- 🔭 I’m currently working on **Aurora Project**.
+- 🔭 I’m currently studying.
 
-- 🌱 I’ll be out for a while, making new projects.
+- 🌱 New projects will come soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
